@@ -1,4 +1,12 @@
-## Hi there 👋
+👋 Hi, I’m Antonio Squicciarini — a PhD candidate in Engineering with a strong focus on coding for machine learning, signal processing, and information theory.
+
+💻 I code primarily in **Python**, using it for deep learning, statistical modeling, and time series analysis. I also work with **MATLAB** and **C**, and regularly use **Jupyter**, **Git**, and **Google Cloud Platform** in my workflow.
+
+🧠 My research involves developing custom loss functions based on entropic and information divergences to improve supervised learning under data imbalance and label noise.
+
+🧪 I’ve applied my work to domains like **fault detection**, **medical image analysis**, and **anomaly detection** — combining theory and code to solve real-world problems.
+
+🔍 Always exploring better ways to model data, build reliable ML pipelines, and write clean, reproducible code.
 
 <!--
 **antosquicciarini/antosquicciarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
